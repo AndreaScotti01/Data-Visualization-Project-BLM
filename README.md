@@ -13,8 +13,13 @@ Work should be delivered keeping in mind that the Jupyter notebook should be sim
 The project needs to be divided into 6 phases: 
 
 Discovery (identification of the problem and objectives)
+
 Data selection
+
 Data cleaning
+
 Data exploration
+
 Data transformation
+
 Data visualization
